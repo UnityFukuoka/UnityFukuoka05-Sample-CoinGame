@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/GameSystem/MainGamePreside.cs">
+    <Files>
+      <File FileName="Assets/Script/GameSystem/FallChecker.cs" Line="9" Column="19" />
+      <File FileName="Assets/UnityChan_Fukuoka/Script/UnityChan.cs" Line="1" Column="1" />
+      <File FileName="Assets/UnityChan_Fukuoka/Script/JumpMotionController.cs" Line="1" Column="1" />
+      <File FileName="Assets/UnityChan_Fukuoka/Script/UnityChanAnimator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/CoinComponent/Bound.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/CoinComponent/Move.cs" Line="13" Column="34" />
+      <File FileName="Assets/Script/GameSystem/ScoreDisplayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/GameSystem/GameEndDisplayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/CoinComponent/Around.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/GameSystem/MainGamePreside.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

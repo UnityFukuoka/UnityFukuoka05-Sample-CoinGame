@@ -1,0 +1,10 @@
+/Users/hiroto/unity_project/unity-chan_for_unity_fukuoka06/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/hiroto/unity_project/unity-chan_for_unity_fukuoka06/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/hiroto/unity_project/unity-chan_for_unity_fukuoka06/obj/Debug/Assembly-CSharp.dll
+/Users/hiroto/unity_project/unity-chan_for_unity_fukuoka06/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/hiroto/unity_project/unity-chan_for_unity_fukuoka06/Temp/bin/Debug/UnityEngine.dll
+/Users/hiroto/unity_project/unity-chan_for_unity_fukuoka06/Temp/bin/Debug/UnityEditor.dll
+/Users/hiroto/unity_project/unity-chan_for_unity_fukuoka06/Temp/bin/Debug/Mono.Cecil.dll
+/Users/hiroto/unity_project/unity-chan_for_unity_fukuoka06/Temp/bin/Debug/nunit.framework.dll
+/Users/hiroto/unity_project/unity-chan_for_unity_fukuoka06/Temp/bin/Debug/Unity.DataContract.dll
+/Users/hiroto/unity_project/unity-chan_for_unity_fukuoka06/Temp/bin/Debug/ICSharpCode.NRefactory.dll
